@@ -1265,6 +1265,8 @@ footer .credits a {
   }
 }
 
+.
+
 /* The Modal (background) */
 .modal {
   display: none; /* Hidden by default */
@@ -1280,6 +1282,7 @@ footer .credits a {
 }
 
 /* Modal Content/Box */
+
 .modal-content {
   background-color: #fefefe;
   margin: 15% auto; /* 15% from the top and centered */

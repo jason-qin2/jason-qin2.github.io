@@ -117,7 +117,7 @@
 })(jQuery);
 
 // MODAL
-var modal = document.getElementById("myModal");
+var modal = document.getElementsByClassName("myModal");
 
 // Get the button that opens the modal
 var btn = document.getElementById("myBtn");
