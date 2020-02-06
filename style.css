@@ -385,10 +385,6 @@ a:hover {
   }
 }
 
-/*======================================
-//--//-->   NAVBAR
-======================================*/
-
 .navbar-b {
   transition: all .5s ease-in-out;
   background-color: transparent;
@@ -530,8 +526,6 @@ a:hover {
   background-color: #0078ff;
 }
 
-/*--/ Hamburger Navbar /--*/
-
 .navbar-toggler {
   position: relative;
 }
@@ -584,10 +578,6 @@ a:hover {
   transform: rotate(-135deg);
   opacity: 0.9;
 }
-
-/*======================================
-//--//-->   INTRO
-======================================*/
 
 .intro {
   height: 100vh;
@@ -656,10 +646,6 @@ a:hover {
   color: #fff;
 }
 
-/*======================================
-//--//-->   ABOUT
-======================================*/
-
 .about-mf .box-shadow-full {
   padding-top: 4rem;
   padding-bottom: 4rem;
@@ -688,10 +674,6 @@ a:hover {
   height: .7rem;
   background-color: #0078ff;
 }
-
-/*======================================
-//--//-->   SERVICES
-======================================*/
 
 .service-box {
   background-color: #fff;
@@ -733,10 +715,6 @@ a:hover {
     font-size: 1.2rem;
 }
 
-/*======================================
-//--//-->   COUNTER
-======================================*/
-
 .counter-box {
   color: #fff;
   text-align: center;
@@ -757,10 +735,6 @@ a:hover {
   font-size: 2rem;
   margin-bottom: 0;
 }
-
-/*======================================
-//--//-->   PORTFOLIO
-======================================*/
 
 .work-box {
   margin-bottom: 3rem;
@@ -814,10 +788,6 @@ a:hover {
   font-size: 1.2rem;
 }
 
-/*======================================
-//--//-->   TESTIMONIALS
-======================================*/
-
 .testimonials .owl-carousel .owl-item img {
   width: auto;
 }
@@ -859,9 +829,6 @@ a:hover {
     font-size: 1rem;
     color: white;
 }
-/*======================================
-//--//-->   BLOG
-======================================*/
 
 .card-blog .card-body {
   position: relative;
@@ -914,10 +881,6 @@ a:hover {
   float: right;
 }
 
-/*======================================
-//--//-->   BLOG-SINGLE
-======================================*/
-
 .post-box,
 .form-comments,
 .box-comments,
@@ -958,8 +921,6 @@ a:hover {
   padding: 18px;
   font-style: italic;
 }
-
-/*------/ Comments /------*/
 
 .box-comments .list-comments li {
   padding-bottom: 40px;
@@ -1050,10 +1011,6 @@ a:hover {
   color: #fff;
 }
 
-/*======================================
-//--//-->   CONTACT
-======================================*/
-
 .footer-paralax {
   padding: 4rem 0 0 0;
 }
@@ -1061,10 +1018,6 @@ a:hover {
 .contact-mf {
   margin-top: 4rem;
 }
-
-/*======================================
-//--//-->   FOOTER
-======================================*/
 
 footer {
   text-align: center;
@@ -1087,10 +1040,6 @@ footer .credits a {
   color: black;
     font-size: 0.1rem;
 }
-
-/*======================================
-//--//-->   CONtaCT FORM
-======================================*/
 
 #sendmessage {
   color: #0078ff;
@@ -1125,10 +1074,6 @@ footer .credits a {
   font-weight: 400;
   font-size: 13px;
 }
-
-/*======================================
-//--//-->   BUTTON
-======================================*/
 
 .button {
   display: inline-block;
